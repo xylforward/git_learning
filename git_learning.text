@@ -2,3 +2,4 @@ if you want to remove a oparetion
 you can enter "git rm file_name" into shellbox
 fuck
 check up
+git reset HEAD experison
